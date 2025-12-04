@@ -1,13 +1,5 @@
-# Address Validator
+# Python Projects
 
-# Description
 
-This project validates if your email address is valid by looking "@" and "." in the text
-
-# Languages or Frameworks used
-
-Python
-
-# How to run
-
-Open the AddressValidator.py file with the pythn ide and hit run
+    This is a compiled list of different project topics for learning purposes
+    The main purpose of this list is to get hands-on experience on different topics.
