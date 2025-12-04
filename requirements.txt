@@ -1,0 +1,12 @@
+
+# Data processing and validation
+pandas>=2.0.0
+pydantic>=2.0.0
+numpy>=1.24.0
+
+# Testing framework
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.0.0
+pytest-playwright>=0.7.0
+playwright>=1.30.0
